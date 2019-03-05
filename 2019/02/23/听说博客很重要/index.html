@@ -103,7 +103,7 @@
 <meta property="og:site_name" content="Just Blog">
 <meta property="og:description" content="开篇  这个应该来说是我写的第一篇博客吧，自从高考结束后，鄙人就再没写过一篇像样的文章了，明显有一种手生的感觉，感觉意思在脑海里，却难以下笔（敲键盘）把它写出来，不过听说了写博客有助于技术进步，又有好友安利，我就花点时间来玩玩吧。（大概或许应该不是为了交任务吧）  不过在下才疏学浅，又懒于打理，这个博客指不定会变成线上笔记本吧（斜眼笑） 讲讲我的心路历程  为了防止我忘记这个博客是如何搭建的，就写">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-02-23T12:40:46.961Z">
+<meta property="og:updated_time" content="2019-03-05T13:02:47.008Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="听说博客很重要">
 <meta name="twitter:description" content="开篇  这个应该来说是我写的第一篇博客吧，自从高考结束后，鄙人就再没写过一篇像样的文章了，明显有一种手生的感觉，感觉意思在脑海里，却难以下笔（敲键盘）把它写出来，不过听说了写博客有助于技术进步，又有好友安利，我就花点时间来玩玩吧。（大概或许应该不是为了交任务吧）  不过在下才疏学浅，又懒于打理，这个博客指不定会变成线上笔记本吧（斜眼笑） 讲讲我的心路历程  为了防止我忘记这个博客是如何搭建的，就写">
@@ -331,12 +331,24 @@
                 
               
 
-              <time title="Created: 2019-02-23 16:06:28 / Modified: 20:40:46" itemprop="dateCreated datePublished" datetime="2019-02-23T16:06:28+08:00">2019-02-23</time>
+              <time title="Created: 2019-02-23 16:06:28" itemprop="dateCreated datePublished" datetime="2019-02-23T16:06:28+08:00">2019-02-23</time>
             
 
             
               
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Edited on</span>
+                
+                <time title="Modified: 2019-03-05 21:02:47" itemprop="dateModified" datetime="2019-03-05T21:02:47+08:00">2019-03-05</time>
               
             
           </span>
@@ -373,6 +385,14 @@
         <h2 id="开篇"><a href="#开篇" class="headerlink" title="开篇"></a>开篇</h2><p>  这个应该来说是我写的第一篇博客吧，自从高考结束后，鄙人就再没写过一篇像样的文章了，明显有一种手生的感觉，感觉意思在脑海里，却难以下笔（敲键盘）把它写出来，不过听说了写博客有助于技术进步，又有好友安利，我就花点时间来玩玩吧。（大概或许应该不是为了交任务吧）<br>  不过在下才疏学浅，又懒于打理，这个博客指不定会变成线上笔记本吧（斜眼笑）</p>
 <h2 id="讲讲我的心路历程"><a href="#讲讲我的心路历程" class="headerlink" title="讲讲我的心路历程"></a>讲讲我的心路历程</h2><p>  为了防止我忘记这个博客是如何搭建的，就写一下加深记忆。</p>
 <p>  1.当然是知道自己先要干什么，我是像建个比较漂亮的博客而又没钱买服务器的穷孩子，那么我的选择是hexo+github<br>  2.接下来就是找教程了，个人的原则是先运用后理解<br>  感谢那些写教程的人，前人栽树，后人乘凉。<br>  <a href="https://www.cnblogs.com/fengxiongZz/p/7707219.html" target="_blank" rel="noopener">使用Hexo+Github一步步搭建属于自己的博客（基础)</a><br>  虽说是win10， 但其实都适用，没有坑。<br>  <a href="https://blog.csdn.net/zhengyong15984285623/article/details/82380735?utm_source=blogxgwz5" target="_blank" rel="noopener">Hexo部署github博客</a><br>  <a href="https://blog.csdn.net/lyb3b3b/article/details/78706077" target="_blank" rel="noopener">Ubuntu上用Hexo搭建博客托管到github</a><br>  组合食用，效果更嘉（我使用的是ubuntu）<br>  <a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo</a><br>  当然少不了官方文档<br>  <a href="https://blog.csdn.net/sinat_37781304/article/details/82729029" target="_blank" rel="noopener">hexo史上最全搭建教程</a></p>
+<h2 id="关键的命令"><a href="#关键的命令" class="headerlink" title="关键的命令"></a>关键的命令</h2><p>  首先，在没设置路径的情况下记得先 cd 到hexo部署的那个地方（我一定是个傻子才会强调这种东西</p>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br><span class="line">  </span><br></pre></td></tr></table></figure>
+<p>  创建一篇新文章 [layout] 代表布局，Hexo 有三种默认布局：[post]、[page] 和 [draft],常见的就是post。</p>
+<p><title> 代表标题。</title></p>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>  启动服务器。默认情况下，访问网址为： <a href="http://localhost:4000/。" target="_blank" rel="noopener">http://localhost:4000/。</a></p>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deplay </span><br></pre></td></tr></table></figure>
+<p>  部署网站<br>  可简写为<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure></p>
 <p>  大致就这些了吧，我还有很多要学，就不班门弄斧了。</p>
 
       
@@ -521,7 +541,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#开篇"><span class="nav-number">1.</span> <span class="nav-text">开篇</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#讲讲我的心路历程"><span class="nav-number">2.</span> <span class="nav-text">讲讲我的心路历程</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#开篇"><span class="nav-number">1.</span> <span class="nav-text">开篇</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#讲讲我的心路历程"><span class="nav-number">2.</span> <span class="nav-text">讲讲我的心路历程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#关键的命令"><span class="nav-number">3.</span> <span class="nav-text">关键的命令</span></a></li></ol></div>
             
 
           </div>
