@@ -52,7 +52,7 @@ Working in Progress: CVIU (1: Under Review);
 
 
 # 💻 Experience
-- *2023.12 - now*, Research Intern, [Lorem](https://github.com/), China.
+- *2023.12 - now*, Research Intern, [Multimodal Intelligent Perception System Lab](https://scholar.google.com/citations?user=7oRD67kAAAAJ).
 - *2023.06 - 2023.07*, Teaching Assistant, [OpenMMLab](https://github.com/open-mmlab/OpenMMLabCourse)
 
 
