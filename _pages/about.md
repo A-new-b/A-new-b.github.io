@@ -29,8 +29,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 # 📝 Publications 
 
-<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ArXiv Preprint</div><img src='images/gas.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-top-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv Preprint</div><img src='images/gas.png' alt="gas" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Invisible Gas Detection: An RGB-Thermal Cross Attention Network and A New Benchmark](https://arxiv.org/pdf/2403.17712)
 
