@@ -19,12 +19,18 @@ redirect_from:
 
 Hi，
 
+My research interest mainly includes:
+  + Multi-modal LLM: LLM Reasoning, LLM Application.
+  + Diffusion model: High Quality and Stable Image Generation.
+  + Nerf/3D GS: 3D Scene Reconstruction.
+
+
 # 📖 Educations
 - *2022.08 - now*, Southern University of Science and Technology, Master in Electronic and Information Engineering.
 - *2018.08 - 2022.06*, Northeastern University, Bachelor in Information and Computing Science.
 
 # 🔥 News
-- *2024.03*: We rea 
+- *2024.03*: We published a paper about RGB-T gas detection on arXiv.
 
 # 📝 Publications 
 Working in Progress: CVIU (1: Under Review);
@@ -57,5 +63,4 @@ Working in Progress: CVIU (1: Under Review);
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2018.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.03* Winner Award in the 18th "Challenge Cup" SUSTech Inramural Competition. 
