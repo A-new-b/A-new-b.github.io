@@ -19,6 +19,8 @@ redirect_from:
 
 Hi👋，I am Jue Wang, an MS student at [Southern University of Science and Technology](https://www.sustech.edu.cn/)<img src='images/sustech.png' style='width: 1.1em;'> and [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/favicon-32x32.png' style='width: 1.1em;'>. 
 
+You can find me at [jue.wang.info@gmail.com](jue.wang.info@gmail.com).
+
 My research interest mainly includes:
   + **Multi-modal LLM**: LLM Reasoning, LLM Application.
   + **Diffusion model**: High Quality and Stable Image Generation.
@@ -31,7 +33,7 @@ My research interest mainly includes:
 
 # 🔥 News
 - *2024.06*: We propose a new task and benchmark about understanding emotional triggers. Checkout the [EmCoBench](https://github.com/Lum1104/EmCoBench/tree/main).
-- *2024.03*: We published a paper about RGB-T gas detection on arXiv.
+- *2024.03*: We published a paper about RGB-T gas detection. Checkout the [Invisable Gas Detection](https://arxiv.org/abs/2403.17712).
 
 # 📝 Publications 
 Working in Progress: CVIU (1: Under Review); NeurIPS (2: Under Review);
@@ -87,4 +89,5 @@ Working in Progress: CVIU (1: Under Review); NeurIPS (2: Under Review);
 
 
 # 🎖 Honors and Awards
+- *2024.01* Outstanding Graduate Student of Southern University of Science and Technology for the Academic Year 2022-2023.
 - *2023.03* Winner Award in the 18th "Challenge Cup" SUSTech Inramural Competition. 
