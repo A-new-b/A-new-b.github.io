@@ -20,9 +20,9 @@ redirect_from:
 Hi👋，I am Jue Wang, an MS student at [Southern University of Science and Technology](https://www.sustech.edu.cn/)<img src='images/sustech.png' style='width: 1.1em;'> and [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/favicon-32x32.png' style='width: 1.1em;'>. 
 
 My research interest mainly includes:
-  + Multi-modal LLM: LLM Reasoning, LLM Application.
-  + Diffusion model: High Quality and Stable Image Generation.
-  + Nerf/3D GS: 3D Scene Reconstruction.
+  + **Multi-modal LLM**: LLM Reasoning, LLM Application.
+  + **Diffusion model**: High Quality and Stable Image Generation.
+  + **Nerf/3D GS**: 3D Scene Reconstruction.
 
 
 # 📖 Educations
@@ -30,16 +30,40 @@ My research interest mainly includes:
 - *2018.08 - 2022.06*, Northeastern University, Bachelor in Information and Computing Science.
 
 # 🔥 News
+- *2024.06*: We propose a new task and benchmark about understanding emotional triggers. Checkout the [EmCoBench](https://github.com/Lum1104/EmCoBench/tree/main).
 - *2024.03*: We published a paper about RGB-T gas detection on arXiv.
 
 # 📝 Publications 
-Working in Progress: CVIU (1: Under Review);
+Working in Progress: CVIU (1: Under Review); NeurIPS (2: Under Review);
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">ArXiv Preprint</div>
-        <img src='images/gas.png' alt="gas" width="100%">
+        <img src='resources/emco/emcobench.png' alt="emco" width="100%">
+      </div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+
+  [EmCoBench: An Extensive Benchmark for General Emotion Comprehension](../resources/emco/emcobench_paper.pdf)
+
+  Yuxiang Lin, **Jue Wang**, Haomin Liang, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng, Xiaojiang Peng, Alexander G. Hauptmann
+
+  **<font color=red>ArXiv</font>** \| [[Paper]](../resources/emco/emcobench_paper.pdf) [[Code]](https://github.com/Lum1104/EmCoBench)
+  - We proposing the Emotion Comprehension task, which focuses on identifying emotional triggers rather than merely classifying emotions, crucial for building more empathetic systems;
+  - We introducing the Coarse-to-Fine Self-Ask (CFSA) method, a novel VLLM-assisted data annotation technique;
+  - We developing the EmCoBench dataset, which includes 78 fine-grained emotions and 1,655 emotion comprehension samples, with 50 multifacets complex samples;
+
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ArXiv Preprint</div>
+        <img src='resources/RT_CAN/gas.png' alt="gas" width="100%">
       </div>
     </div>
   <div class='paper-box-text' markdown="1">
@@ -58,7 +82,7 @@ Working in Progress: CVIU (1: Under Review);
 
 
 # 💻 Experience
-- *2023.12 - now*, Research Intern, [Multimodal Intelligent Perception System Lab](https://scholar.google.com/citations?user=7oRD67kAAAAJ).
+- *2023.12 - now*, Research Intern, [MIPS-Lab](https://scholar.google.com/citations?user=7oRD67kAAAAJ).
 - *2023.06 - 2023.07*, Teaching Assistant, [OpenMMLab](https://github.com/open-mmlab/OpenMMLabCourse)
 
 
