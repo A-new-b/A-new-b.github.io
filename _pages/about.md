@@ -36,30 +36,6 @@ My research interest mainly includes:
 - *2024.03*: We published a paper about RGB-T gas detection. Checkout the [Invisable Gas Detection](https://arxiv.org/abs/2403.17712).
 
 # 📝 Publications 
-Working in Progress: CVIU (1: Under Review); NeurIPS (2: Under Review);
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ArXiv Preprint</div>
-        <img src='resources/emco/emcobench.png' alt="emco" width="100%">
-      </div>
-    </div>
-  <div class='paper-box-text' markdown="1">
-
-  [EmCoBench: An Extensive Benchmark for General Emotion Comprehension](../resources/emco/emcobench_paper.pdf)
-
-  Yuxiang Lin, **Jue Wang**, Haomin Liang, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng, Xiaojiang Peng, Alexander G. Hauptmann
-
-  **<font color=red>ArXiv</font>** \| [[Paper]](../resources/emco/emcobench_paper.pdf) [[Code]](https://github.com/Lum1104/EmCoBench)
-  - We proposing the Emotion Comprehension task, which focuses on identifying emotional triggers rather than merely classifying emotions, crucial for building more empathetic systems;
-  - We introducing the Coarse-to-Fine Self-Ask (CFSA) method, a novel VLLM-assisted data annotation technique;
-  - We developing the EmCoBench dataset, which includes 78 fine-grained emotions and 1,655 emotion comprehension samples, with 50 multifacets complex samples;
-
-  </div>
-</div>
-
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -74,7 +50,7 @@ Working in Progress: CVIU (1: Under Review); NeurIPS (2: Under Review);
 
   **Jue Wang\***, Yuxiang Lin\*, Qi Zhao, Dong Luo, Shuaibao Chen, Wei Chen, Xiaojiang Peng (\* denotes equal contribution)
 
-  **<font color=red>ArXiv</font>** \| [[Paper]](https://arxiv.org/pdf/2403.17712)
+  **<font color=red>CVIU</font>** \| [[Paper]](https://arxiv.org/pdf/2403.17712)
   - We design the RGB-Thermal Cross Attention Network for invisible gas detection, by effectively integrating texture information from RGB images and gas information from thermal images.
   - We propose the RGB-assisted Cross Attention Module and the Global Textual Attention Module for cross modality feature fusion and diverse contextual information extraction.
   - We introduce Gas-DB, the first comprehensive open-source gas detection database, including approximately 1.3K well-annotated RGB-thermal images for gas detection algorithms.
