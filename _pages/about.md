@@ -19,7 +19,7 @@ redirect_from:
 
 Hi👋，I am Jue Wang, an MS student at [Southern University of Science and Technology](https://www.sustech.edu.cn/)<img src='images/sustech.png' style='width: 1.1em;'> and [Shenzhen Institute of Advanced Technology (SIAT), CAS](https://english.siat.ac.cn/) <img src='images/favicon-32x32.png' style='width: 1.1em;'>. 
 
-🔥🔥🔥<font color=red>I am looking for a Ph.D. position.</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to contact me [jue.wang.info@gmail.com](jue.wang.info@gmail.com).
+🔥🔥🔥<font color=red>I am looking for a Ph.D. position.</font>Here is my [CV](resources/CV/JueWang_CV.pdf).If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to contact me [jue.wang.info@gmail.com](jue.wang.info@gmail.com).
 
 My research interest mainly includes:
   + **Multi-modal LLM**: LLM Reasoning, LLM Application.
